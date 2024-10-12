@@ -1,0 +1,29 @@
+h3{
+    font-weight: 800;
+}
+
+label{
+    font-weight: 700;
+}
+
+.form-control{
+    background-color: transparent;
+    border-width: 2px;
+    border-radius: 15px;
+
+}
+
+.form-control:focus{
+    box-shadow: none;
+    background-color: transparent;
+
+}
+
+.btn{
+    background-color: rgb(190, 30, 30);
+    font-weight: bold;
+}
+
+.btn:hover{
+    
+}
